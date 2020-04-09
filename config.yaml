@@ -1,0 +1,17 @@
+﻿# 送信したメールの内容をlogとして残すディレクトリの指定
+MAIL_LOG_DIR : C:\xampp\htdocs\log\
+
+# PHPMailerライブラリの設置パス
+PHP_MAILER_AUTOLOAD_PATH : C:\xampp\htdocs\PHPMailer\PHPMailerAutoload.php
+
+# 比較用ファイルの保管先パス
+BEFORE_ZIP_DIR : C:\xampp\htdocs\bef\
+
+# メール送信時のhost指定
+MAIL_HOST : mail11.sec.test.com
+
+# 連想配列KEYのネストを表すセパレーター
+SEPARATOR : \
+
+# テスト用、変更ファイルの指定してる
+TEST_PATH : C:\xampp\htdocs\executor\test_enum.json

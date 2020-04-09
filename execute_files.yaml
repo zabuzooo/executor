@@ -1,0 +1,11 @@
+-
+ path : C:\xampp\htdocs\executor\test.json
+ modified_flag : y
+ create_flag : y
+ delete_flag : y
+
+-
+ path : C:\xampp\htdocs\test\
+ modified_flag : y
+ create_flag : y
+ delete_flag : y
